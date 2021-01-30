@@ -1,0 +1,2 @@
+class mafiaclientservice :
+    pass

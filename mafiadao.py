@@ -43,3 +43,6 @@ class mafiaDao :
         conn.commit()  # 쓰기 완료
         conn.close()
 
+    def test():
+        
+

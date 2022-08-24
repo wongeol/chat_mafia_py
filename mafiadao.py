@@ -44,5 +44,6 @@ class mafiaDao :
         conn.close()
 
     def test():
-        
+
+    def test2():
 

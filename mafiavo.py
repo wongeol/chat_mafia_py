@@ -29,5 +29,8 @@ class mafiavo :
     def setLose(self, lose):
         self._lose = lose
 
+    def getpw(self, pw):
+        return self.pw;
+
 
 
